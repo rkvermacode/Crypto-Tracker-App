@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+    <string name="search_crypto_currency">Search Crypto Currency</string>
+    <string name="symbol">Symbol</string>
+    <string name="name">Name</string>
+    <string name="rate">Rate</string>
+</resources>
